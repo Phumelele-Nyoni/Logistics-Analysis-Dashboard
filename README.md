@@ -12,3 +12,11 @@ Logistic Dashboard used to assess the efficiency of each component of a logistic
 ### Dataset Overview
 Columns:
 Date, Product_ID, Product_Name, Category, Units_Sold, Unit_Price, Total_Sales, Cost_Price, Profit
+
+Sample Preview
+
+| Date       | Product_Name | Region| Units_Sold | Unit_Price | Total_Sales_Profit |
+|------------|--------------|-------|------------|------------|------------------- | 
+| 2023-01-05 | Phone A      |East   | 320        | 199.99     | 11 500             |
+|2023-01-05  | Laptop A     |North  |300         |358.66      |6000 |
+
